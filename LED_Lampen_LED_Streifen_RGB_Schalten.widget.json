@@ -18,7 +18,7 @@
         {
             "type": "string",
             "id": "farbe_standard",
-            "label": "Title klick Farbe",
+            "label": "Title klick Farbe (noch ohne Funktion)",
             "default": "342,6,100",
             "description": "im RGB Format eintragen mit einem \",\" trennen ohne Leerzeichen , BSP: 340,6,100"
         },
